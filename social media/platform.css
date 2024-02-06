@@ -1,0 +1,49 @@
+*{
+    font-family:'Poppins', sans-serif;
+}
+
+.navbar ul li a:hover {
+    color: #9FE870;
+}
+
+h1{
+    padding-top:4%;
+    font-family:'Poppins', sans-serif;
+    font-size: 68px;
+    color:#163300;
+    text-align: center;
+}
+
+.teamwork h2{
+    color:#163300;
+    font-size: 36px;
+    text-align: center;
+}
+
+.teamwork h3{
+    color:#163300;
+    font-size: 24px;
+}
+
+.teamwork{
+    margin-left: 8%;
+    margin-right: 4%;
+}
+
+.definitions {
+    margin-left: 8%;
+    margin-right: 4%;
+    padding-bottom: 4%;
+    border-bottom: 1px solid #bbb;
+}
+
+.definitions h2{
+    text-align: center;
+    color:#163300;
+    font-size: 36px;
+}
+
+.definitions h3{
+    color:#163300;
+    font-size: 24px;
+}

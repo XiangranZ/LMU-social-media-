@@ -1,0 +1,66 @@
+*{
+    font-family:'Poppins', sans-serif;
+}
+.navbar ul li a:hover {
+    color: #9FE870;
+}
+
+.toparea {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url("img/me.jpeg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+    height: 500px;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.titles h1{
+    padding-top: 25%;
+    padding-left: 5%;
+    color: white;
+    font-size: 68px; 
+}
+
+h2 {
+    padding-left: 5%;
+    color: #163300;
+    font-size: 24px;
+}
+
+h3{
+    padding-left: 10%;
+    color: #163300;
+}
+
+p{
+    padding-left: 10%;
+    font-size: 16px;
+}
+
+.education ul{
+    padding-left: 10%;
+}
+
+.education{
+    padding-bottom: 2%;
+    border-bottom: 1px solid #bbb;
+}
+
+.experience{
+    padding-bottom: 2%;
+    border-bottom: 1px solid #bbb;
+}
+
+.additionalskills{
+    padding-bottom: 2%;
+    border-bottom: 1px solid #bbb;
+}
+
+.education ul{
+    padding-left: 10%;
+}
+
+.additionalskills ul{
+    padding-left: 10%;
+} 

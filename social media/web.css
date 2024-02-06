@@ -1,0 +1,20 @@
+.navbar{
+    position:static;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,h2{
+    color:#163300; 
+}
+
+h1{
+    font-size:68px;
+    text-align: center;
+}
+
+.def{
+    margin: 0 8%;
+}

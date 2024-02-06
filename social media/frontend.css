@@ -1,0 +1,65 @@
+*{
+    font-family:'Poppins', sans-serif;
+}
+
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+th,td {
+    border: 1px solid;
+  }
+
+.toparea{
+    padding-top: 4%;
+}
+
+.toparea h1 {
+    font-size:68px; 
+    color: #163300; 
+    text-align: center;
+}
+
+.toparea p{
+    text-align: center;
+    margin: 0 8%;
+    color: #454745;
+}
+
+.keytech {
+    margin-top: 4%;
+    margin-bottom:4%;
+    margin-left:8%;
+}
+
+.keytech h2{
+    font-size:24px; 
+    color: #163300; 
+}
+
+.curriculum{
+    margin-left: 8%;
+}
+
+.curriculum h2{
+    color: #163300; 
+    font-size:24px; 
+}
+
+.javascript{
+    margin-left:8%;
+}
+.javascript h2{
+    margin-top:4%;
+    font-size:24px; 
+    color: #163300; 
+}
+
+.javascript a{
+    color: #163300; 
+}
+
+.javascript a:hover{
+    color: #9FE870;
+}

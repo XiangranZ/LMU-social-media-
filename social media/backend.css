@@ -1,0 +1,64 @@
+*{
+    font-family:'Poppins', sans-serif;
+}
+.navbar { 
+    position: static;
+  }
+
+  .toparea{
+    text-align: center;
+    margin: 0 8%;
+    color: #454745;
+  }
+
+.toparea h1{
+    color: #163300; 
+    font-size: 68px;
+}
+
+.api, .exercise{
+    margin: 0 8%;
+    padding-bottom: 4%;
+    border-bottom: 1px solid #bbb;
+}
+
+.api h2{
+    margin-top: 4%;
+    color:#163300;
+}
+
+.exercise h2{
+    text-align: center;
+    color:#163300;
+    font-size: 36px;
+}
+
+.exercise h3{
+    color:#163300;
+    font-size: 24px;
+}
+
+td {
+    padding:10px 0px 5px 50px;
+}
+
+#color{
+    color:#163300;
+    font-weight: bold;
+}
+
+.c{
+    margin: 0 8%;
+    padding-top: 2%;
+}
+
+.c h2{
+    color:#163300;
+    text-align: center;
+    font-size: 36px;
+}
+
+.c h3{
+    color:#163300;
+    font-size: 24px;
+}
